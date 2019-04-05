@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'Buda-Pesth seems a wonderful place.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
+      'The time employed in this book consists not entirely of one day.',
   'example4':
       'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.'
 };
