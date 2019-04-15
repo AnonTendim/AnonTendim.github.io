@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'Lastly, she pictured to herself how this same little sister of hers would, in the after-time, be herself a grown woman.',
   'example2':
-      'The wind came now in fierce bursts, and the snow was driven with fury as it swept upon us in circling eddies.',
+      'It was the better part of an hour when the Count returned.',
   'example3':
       'The Trojans fly before Achilles, some towards the town, others to the river Scamander; he falls upon the latter with great slaughter, takes twelve captives alive, to sacrifice to the shade of Patroclus.',
   'example4':
